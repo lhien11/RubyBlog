@@ -1,4 +1,5 @@
 # README
+This is a finished product tutorial by Brad Traversy. 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
